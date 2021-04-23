@@ -1,0 +1,20 @@
+.idea
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+cypress/videos
+cypress/screenshots
+cypress/integration/examples
+
+# Environment
+cypress.env.json
+env.json
+
+# Reporters
+allure-results
+junit-results
